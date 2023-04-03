@@ -12,8 +12,8 @@ Made a program using OpenCV which will help us to detect the face from an image 
 
 ### Sample Input
 
-<img align="center" src="Original/sample_1.jpg?raw=true" width="250"> <img align="center" src="Original/sample_2.jpg?raw=true" width="250"> <img align="center" src="Original/sample_4.jpg?raw=true" width="250">
+<img align="center" src="Original/sample_1.jpg?raw=true" width="250"> <img align="center" src="Original/sample_5.jpg?raw=true" width="250"> <img align="center" src="Original/sample_4.jpg?raw=true" width="250">
 
 ### Sample Output
 
-<img align="center" src="Cropped/sample_1.jpg?raw=true" width="250"> <img align="center" src="Cropped/sample_2.jpg?raw=true" width="250"> <img align="center" src="Cropped/sample_4.jpg?raw=true" width="250">
+<img align="center" src="Cropped/sample_1.jpg?raw=true" width="250"> <img align="center" src="Cropped/sample_5.jpg?raw=true" width="250"> <img align="center" src="Cropped/sample_4.jpg?raw=true" width="250">
